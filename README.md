@@ -1,4 +1,4 @@
-=== Signaler des erreurs dans les interfaces ===
+# Signaler des erreurs dans les interfaces 
 
 Pour signaler une erreur
 
